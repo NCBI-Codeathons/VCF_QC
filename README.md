@@ -1,4 +1,4 @@
-# Clouseau
+# VCF_QC
 **A tool for QC of large VCF files**
 
 ![mid_workflow](./plots/mid_workflow.png)
