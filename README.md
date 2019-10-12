@@ -3,6 +3,8 @@
 
 ![mid_workflow](./plots/mid_workflow.png)
 
+
+## Draft workflow
 ![Main Workflow](./plots/workflow.png)
 
 
@@ -16,6 +18,8 @@
 
 
 ![Proposed implementation](./plots/implementation_plan.jpg)
+
+## System Requirements:
 
 ``` thing ```
 
